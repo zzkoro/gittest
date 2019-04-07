@@ -1,0 +1,8 @@
+[Adding an existing project to GitHub]
+1. Create a new repository on Github
+2. Open Terminal 
+3. Change the current working directory to your local project
+4. initialize the local directory as a Git repository
+	$ git init	
+5. Add the files in your new local repostiory. This stages them for the first commit.
+	$ git add .
