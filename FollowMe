@@ -15,3 +15,6 @@
 	# Verifies the new remote URL
 8. Push the changes in your local repository to GitHub
 	$ git push -u origin master
+	
+	
+zz-hotfix-1 added
